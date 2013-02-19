@@ -6,6 +6,6 @@
 class quicksilver {
   package { 'Quicksilver':
     provider => 'compressed_app',
-    source   => 'http://github.qsapp.com/downloads/Quicksilver%20B71.dmg'
+    source   => 'http://github.qsapp.com/downloads/Quicksilver B71.dmg'
   }
 }
