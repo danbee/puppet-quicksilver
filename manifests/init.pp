@@ -5,7 +5,7 @@
 #   include quicksilver
 class quicksilver {
   package { 'Quicksilver':
-    provider => 'pkgdmg',
+    provider => 'appdmg',
     source   => 'http://github.qsapp.com/downloads/Quicksilver%20B71.dmg'
   }
 }
